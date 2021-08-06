@@ -19,5 +19,5 @@ git reset --hard
 git pull
 
 :: Inicia o systema após atualização
-start Agendasys.exe
+start SysControl.exe
 exit
